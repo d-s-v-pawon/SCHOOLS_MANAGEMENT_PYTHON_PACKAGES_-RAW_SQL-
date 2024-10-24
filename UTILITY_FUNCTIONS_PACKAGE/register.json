@@ -1,0 +1,40 @@
+{
+    "stu_user_accounts": {
+        "VENKATESH": [
+            "OR@nge1478",
+            "OR@nge1479"
+        ],
+        "VENKAT": [
+            "OR@nge1479",
+            "OR@nge1478",
+            "OR@nge1477"
+        ],
+        "SIVA": [
+            "OR@nge1477",
+            "OR@nge1478",
+            "OR@nge1479"
+        ],
+        "PAVAN": [
+            "OR@nge1468",
+            "OR@nge1469"
+        ]
+    },
+    "teach_user_accounts": {
+        "PAVAN": [
+            "OR@nge1477",
+            "OR@nge1478"
+        ],
+        "SIVA": [
+            "OR@nge1478"
+        ]
+    },
+    "sch_user_accounts": {
+        "VIKAS": [
+            "OR@nge1478",
+            "OR@nge1479"
+        ],
+        "PADMAVANI": [
+            "OR@nge1479"
+        ]
+    }
+}

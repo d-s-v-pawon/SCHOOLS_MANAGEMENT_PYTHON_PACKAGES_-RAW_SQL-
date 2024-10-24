@@ -1,0 +1,72 @@
+{
+    "stu_log_in": {
+        "VENKATESH": [
+            [
+                false
+            ],
+            [
+                false
+            ]
+        ],
+        "VENKAT": [
+            [
+                false
+            ],
+            [
+                false
+            ],
+            [
+                false
+            ]
+        ],
+        "SIVA": [
+            [
+                false
+            ],
+            [
+                false
+            ],
+            [
+                false
+            ]
+        ],
+        "PAVAN": [
+            [
+                false
+            ],
+            [
+                false
+            ]
+        ]
+    },
+    "teach_log_in": {
+        "PAVAN": [
+            [
+                false
+            ],
+            [
+                false
+            ]
+        ],
+        "SIVA": [
+            [
+                false
+            ]
+        ]
+    },
+    "sch_log_in": {
+        "VIKAS": [
+            [
+                false
+            ],
+            [
+                false
+            ]
+        ],
+        "PADMAVANI": [
+            [
+                false
+            ]
+        ]
+    }
+}

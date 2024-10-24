@@ -1,0 +1,13 @@
+{
+    "sub_num": [
+        5,
+        6
+    ],
+    "max_att_per": 100,
+    "max_sch_time_high": 10,
+    "max_sch_time_pri": 7,
+    "stands": [
+        9,
+        10
+    ]
+}
